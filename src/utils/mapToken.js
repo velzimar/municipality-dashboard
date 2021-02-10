@@ -1,0 +1,1 @@
+export const REACT_APP_MAPBOX_TOKEN = "pk.eyJ1IjoidHJhc2htb25pdG9yaW5nIiwiYSI6ImNrZDdka2VoMjBmZXEyeXRncm92bjV5ajQifQ.-8LkUkr7rWHDntgrwOTOyw";
